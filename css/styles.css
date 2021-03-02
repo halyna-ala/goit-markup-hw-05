@@ -275,6 +275,7 @@ text-align: center;
     display: flex;
     flex-wrap: wrap;
     
+    padding-bottom: 94px;
     margin-top: 0;
     margin-bottom: 0;
     padding-left: 0;
@@ -363,7 +364,6 @@ margin-left: 30px;
     background-color:var(--feature-list-bg-color);    
 }
 .section-title {
-    padding-top: 94px;
     margin-top: 0;
     margin-bottom: 50px;
     font-size: 36px; 
@@ -371,9 +371,9 @@ margin-left: 30px;
     text-align: center;
 
 }
-/* .section-title.client {
+.section-title.client {
     padding-top: 94px;
-} */
+}
 .section .desc {
     margin-top: 0;
     margin-bottom: 0;
